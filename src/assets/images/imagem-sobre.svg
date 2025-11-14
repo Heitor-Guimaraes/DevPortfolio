@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <!-- Fundo -->
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  
+  <!-- Pessoa sentada -->
+  <circle cx="100" cy="80" r="40" fill="#fdbcb4"/>
+  
+  <!-- Cabelo -->
+  <path d="M 60 80 Q 60 40 100 40 Q 140 40 140 80" fill="#3d2817"/>
+  
+  <!-- Corpo -->
+  <rect x="75" y="120" width="50" height="70" fill="#4a90e2" rx="5"/>
+  
+  <!-- Braços -->
+  <rect x="50" y="130" width="25" height="50" fill="#fdbcb4" rx="12"/>
+  <rect x="125" y="130" width="25" height="50" fill="#fdbcb4" rx="12"/>
+  
+  <!-- Pernas -->
+  <rect x="80" y="190" width="15" height="60" fill="#333" rx="7"/>
+  <rect x="105" y="190" width="15" height="60" fill="#333" rx="7"/>
+  
+  <!-- Computador (tela) -->
+  <rect x="200" y="100" width="150" height="100" fill="#667eea" rx="5"/>
+  <rect x="210" y="110" width="130" height="75" fill="#fff" rx="3"/>
+  
+  <!-- Linhas na tela representando código -->
+  <line x1="220" y1="120" x2="330" y2="120" stroke="#667eea" stroke-width="2"/>
+  <line x1="220" y1="135" x2="310" y2="135" stroke="#667eea" stroke-width="2"/>
+  <line x1="220" y1="150" x2="320" y2="150" stroke="#667eea" stroke-width="2"/>
+  <line x1="220" y1="165" x2="300" y2="165" stroke="#667eea" stroke-width="2"/>
+  
+  <!-- Base do computador -->
+  <rect x="260" y="200" width="40" height="20" fill="#667eea" rx="3"/>
+  <rect x="250" y="220" width="60" height="5" fill="#333"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <!-- Fundo gradiente representado -->
+  <rect width="300" height="200" fill="#667eea"/>
+  
+  <!-- Celular/App -->
+  <rect x="50" y="30" width="100" height="150" fill="#fff" rx="10" stroke="#333" stroke-width="2"/>
+  
+  <!-- Tela do celular -->
+  <rect x="60" y="45" width="80" height="120" fill="#f0f0f0" rx="5"/>
+  
+  <!-- Ícones na tela -->
+  <circle cx="80" cy="60" r="8" fill="#667eea"/>
+  <rect x="70" y="75" width="20" height="3" fill="#667eea"/>
+  <rect x="70" y="82" width="20" height="3" fill="#667eea"/>
+  
+  <!-- Notch (entalhe) -->
+  <rect x="80" y="45" width="40" height="12" fill="#333" rx="5"/>
+  
+  <!-- Botão home -->
+  <circle cx="100" cy="180" r="5" fill="#333"/>
+  
+  <!-- Elementos decorativos lado -->
+  <circle cx="220" cy="60" r="30" fill="rgba(255,255,255,0.3)"/>
+  <rect x="180" y="140" width="60" height="40" fill="rgba(255,255,255,0.2)" rx="5"/>
+  
+  <!-- Ícone de desenvolvimento -->
+  <line x1="200" y1="100" x2="250" y2="100" stroke="#fff" stroke-width="2"/>
+  <line x1="225" y1="85" x2="225" y2="115" stroke="#fff" stroke-width="2"/>
+</svg>
